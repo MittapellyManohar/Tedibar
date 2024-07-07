@@ -71,23 +71,23 @@ body {
 }
 .love {
 	width: 100%;
-	display: flex;
-	justify-content: center;
+	margin: 80px 0px;
+	/*display: flex;
+	justify-content: center;*/
 }
 .love h2 {
 	color: #552b68;
 	font-size: 54px;
+	margin: 50px 50px;
 }
 
 .love ul {
 	display: flex;
 	justify-content: space-between;
-	margin-top: 150px;	
-
+/*	margin-top: 150px;*/
 }
 .love li {
 	list-style: none;
-	padding: 40px;
 }
 .parent-diaries {
 	width: 100%;
